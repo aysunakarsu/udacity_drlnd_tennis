@@ -97,11 +97,11 @@ In the training phase of this learning algorithm, actor critic methods are used.
 
 ## Average score per episode
 
-![plot_of_rewards](https://raw.githubusercontent.com/aysunakarsu/udacity_drlnd_tennis/master/plot_of_rewards.png)<br>
+![plot_of_rewards](https://raw.githubusercontent.com/aysunakarsu/udacity_drlnd_tennis/master/plot_of_rewards_01.png)<br>
 
 ## Average score per 100 episodes
 
-![plot_of_rewards_100](https://raw.githubusercontent.com/aysunakarsu/udacity_drlnd_tennis/master/plot_of_rewards_100.png)<br>
+![plot_of_rewards_100](https://raw.githubusercontent.com/aysunakarsu/udacity_drlnd_tennis/master/plot_of_rewards_100_01.png)<br>
 
 
 ### Improvements
