@@ -93,6 +93,12 @@ Critic(<br>
 
 In the training phase of this learning algorithm, actor critic methods are used.In these methods two neural networks are used to learn a policy (Actor) and a value function (Critic). 
 
+Episode 100	Average Score: 0.019 <br>
+Episode 200	Average Score: 0.033 <br>
+Episode 300	Average Score: 0.108 <br>
+Episode 362	Average Score: 0.511 <br>
+Environment solved in 262 episodes!	Average Score: 0.51
+
 ### Plot of rewards
 
 ## Average score per episode
