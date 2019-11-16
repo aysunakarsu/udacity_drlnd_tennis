@@ -54,15 +54,15 @@ This project uses DDPG algorithm (deep deterministic policy gradient)with actor 
 
 ### Hyper parameters
 
-BUFFER_SIZE = int(1e5) # replay buffer size
-BATCH_SIZE = 256       # minibatch size
-GAMMA = 0.99           # discount factor
-TAU = 2e-3             # for soft update of target parameters
-LR_ACTOR = 2e-4        # learning rate of the actor
-LR_CRITIC = 3e-3       # learning rate of the critic
-WEIGHT_DECAY = 0       # L2 weight decay
-OU_SIGMA  = 0.01  #Ornstein-Uhlenbeck noise parameters sigma
-OU_THETA  = 0.15  #Ornstein-Uhlenbeck noise parameters theta
+BUFFER_SIZE = int(1e5) # replay buffer size<br>
+BATCH_SIZE = 256       # minibatch size <br>
+GAMMA = 0.99           # discount factor <br>
+TAU = 2e-3             # for soft update of target parameters <br>
+LR_ACTOR = 2e-4        # learning rate of the actor <br>
+LR_CRITIC = 3e-3       # learning rate of the critic <br>
+WEIGHT_DECAY = 0       # L2 weight decay <br>
+OU_SIGMA  = 0.01  #Ornstein-Uhlenbeck noise parameters sigma <br>
+OU_THETA  = 0.15  #Ornstein-Uhlenbeck noise parameters theta<br>
      
 
 ### Model architecture
